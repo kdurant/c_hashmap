@@ -17,3 +17,10 @@ GRTAGS
 GTAGS*
 
 !compile_flags.txt
+##############gcc###################
+*.exe
+*.o
+*.s
+*.i
+build
+
